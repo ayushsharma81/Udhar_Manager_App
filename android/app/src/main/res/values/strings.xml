@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Udhar Manager</string>
+    <string name="tagline">Personal Udhar Ledger &amp; Reminder System</string>
+    <string name="others_owe_me">Others Owe Me</string>
+    <string name="i_owe_others">I Owe Others</string>
+    <string name="net_balance">Net Balance</string>
+    <string name="upcoming_payments">Upcoming Payments</string>
+</resources>

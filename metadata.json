@@ -1,0 +1,6 @@
+{
+  "name": "Udhar Manager - Native Android Ledger & Outstanding Tracker",
+  "description": "Native Android personal ledger, debt tracker, interest calculator, and payment reminder system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
